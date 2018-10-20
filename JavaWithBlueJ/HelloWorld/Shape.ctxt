@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=double\ getArea()
+comment1.params=
+comment1.target=java.lang.String\ getDescription()
+comment2.params=
+comment2.target=java.lang.String\ returnParentClassName()
+comment3.params=
+comment3.target=java.lang.String\ returnClassName()
+numComments=4

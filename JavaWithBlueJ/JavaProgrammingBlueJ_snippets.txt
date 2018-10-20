@@ -1,0 +1,54 @@
+//operators
+
+12 + 10
+24 / 4
+25 % 4
+25 / 4
+25.0 / 4
+24.0 /4
+
+//printing
+
+//String concatenation - overloaded + operator
+
+int count = 5;
+double num = count;
+System.out.println("count: " + count);
+System.out.println("num: " + num);
+
+double pi = 3.14;
+int anotherpi = pi;
+System.out.println("pi: " + pi);
+System.out.println("anotherpi: " + anotherpi);
+
+//Initialization of primitive types versus reference types (objects)
+
+int aa;
+double dd;
+boolean tf;
+String str;
+Object obj;
+System.out.println("aa: " + aa);
+System.out.println("dd: " + dd);
+System.out.println("tf: " + tf);
+System.out.println("str: " + str);
+System.out.println("obj: " + obj);
+
+
+//type casting
+
+double amt1 = 21.32;
+double amt2 = 21.75;
+int amount1 = (int) amt1;
+int amount2 = (int) amt2;
+System.out.println("amount1: " + amount1);
+System.out.println("amount2: " + amount2);
+
+//Check out Math 
+
+String galaxy = “Andromeda”;
+System.out.println(galaxy);
+galaxy.length()
+import java.util.*;
+java.util.Random rand = new Random();
+rand.nextInt(100)
